@@ -936,5 +936,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - Assets/Challenge 3/Challenge 3.unity
-  playerPath: C:/Users/sofim/OneDrive/Documents/GitHub/challenge-3/webGL challenge
-    3
+  playerPath: C:/Users/sofim/OneDrive/Documents/GitHub/Challenge-3/Challenge 3/BuildTemp
